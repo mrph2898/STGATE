@@ -12,6 +12,13 @@ This repo is dedicated to the STGATE: Spatial-Temporal Graph Attention network w
 
 - `literature`:  The sources for our research
 
+##  Goals of the research
+- [ ] Receive the *Accuracy score* from the [article](https://www.frontiersin.org/articles/10.3389/fnhum.2023.1169949/full):
+  - [ ] 90.37% in SEED
+  - [ ] 76.43% in SEED-IV
+  - [ ] 77.44% and 75.26% in the valence and arousal dimensions of the DREAMER 
+- [ ] 
+
 ## TODO list
 - [ ] Create preprocessing script (in lib/) for EEG data to pass data into the model (Mike/Marco), until 18.10
 - [ ] Understand the input shape and format of data for the GNN model (Georgiy), until 18.10
