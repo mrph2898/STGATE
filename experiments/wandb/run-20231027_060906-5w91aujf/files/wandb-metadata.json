@@ -1,0 +1,52 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.11.5",
+    "heartbeatAt": "2023-10-27T03:09:09.676515",
+    "startedAt": "2023-10-27T03:09:06.759156",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/mrph2898/STGATE.git",
+        "commit": "f01b4aae862dd48c51815631189e46b38390af48"
+    },
+    "email": "egor2898@mail.ru",
+    "root": "C:/Users/Georgy/Desktop/PhD/Skoltech/4term_T1/Neuroimaging_ML/PROJECT/STGATE",
+    "host": "LAPTOP-M3VAQIJ5",
+    "username": "Georgy",
+    "executable": "C:\\Users\\Georgy\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 1792.0,
+        "min": 0.0,
+        "max": 1992.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1792.0,
+            "min": 0.0,
+            "max": 1992.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 475.6790199279785,
+            "used": 371.1914253234863
+        }
+    },
+    "gpu": "NVIDIA GeForce MX150",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce MX150",
+            "memory_total": 2147483648
+        }
+    ],
+    "memory": {
+        "total": 15.818614959716797
+    }
+}
